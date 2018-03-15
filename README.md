@@ -22,3 +22,8 @@ Output html:
 document.write 這個用法等於你給電腦指示去幫你在html上打html的tag
 
 -----------------------------------------------
+
+Array:
+<code> var x = []</code>
+
+Array是裝載著一列數值。
